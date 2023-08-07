@@ -23,7 +23,7 @@ The repository is organized into different directories based on the type of grap
 
 If you find a specific graph useful for your project or analysis, feel free to use it by downloading the associated HTML file and integrating it into your work. You can also modify the graphs or use them as a starting point to create your custom visualizations.
 
-## To make a Shareable HTML link from the GitHub repo go to [gitrack](link:https://raw.githack.com/)
+ To make a Shareable HTML link from the GitHub repo go to [gitrack](https://raw.githack.com/)
 
 ## Contributions
 
