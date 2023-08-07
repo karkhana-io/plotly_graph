@@ -4,11 +4,11 @@ This repository contains all the HTML graphs generated from Plotly for documenta
 
 ## Introduction
 
-Plotly is a powerful data visualization library in Python that allows you to create interactive and visually appealing graphs. This repository serves as a collection of HTML graphs generated using Plotly for different use cases and projects.
+Plotly is a powerful data visualization library in Python that allows you to create interactive and visually appealing graphs. This repository is a collection of HTML graphs generated using Plotly for different use cases and projects.
 
 ## Purpose
 
-The main purpose of this repository is to provide a centralized location for storing and sharing the HTML graphs created using Plotly. These graphs can be useful for:
+The primary purpose of this repository is to provide a centralized location for storing and sharing the HTML graphs created using Plotly. These graphs can be helpful for:
 
 - Documenting data analysis and visualization processes.
 - Sharing visualizations with team members or stakeholders.
@@ -21,7 +21,9 @@ The repository is organized into different directories based on the type of grap
 
 ## Usage
 
-If you find a specific graph useful for your own project or analysis, feel free to use it by downloading the associated HTML file and integrating it into your work. You can also modify the graphs or use them as a starting point to create your custom visualizations.
+If you find a specific graph useful for your project or analysis, feel free to use it by downloading the associated HTML file and integrating it into your work. You can also modify the graphs or use them as a starting point to create your custom visualizations.
+
+## To make a Shareable HTML link from the GitHub repo go to [gitrack](link:https://raw.githack.com/)
 
 ## Contributions
 
