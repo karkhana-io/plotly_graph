@@ -33,6 +33,6 @@ This repository is open-source and is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please feel free to reach out via [email@example.com](mailto:ravichandra@karkhana.io) or create an issue in this repository.
+If you have any questions, suggestions, or feedback, please feel free to reach out via [RaviChandra Gupta](mailto:ravichandra@karkhana.io) or create an issue in this repository.
 
 Happy plotting!
